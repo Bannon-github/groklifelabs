@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Life Lab",
+      "hasCanvas": true,
+      "bodyTextLen": 1289,
+      "bodyTextHash": "02dae98b4cf3a667042fb73944a5350575a4e9a44a071ae2d484768f6f540604",
+      "bodyTextPrefix": "Conway Life Lab Generation 0 Population 0 Rule B3/S23 Play Step ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Life Lab",
+      "hasCanvas": true,
+      "bodyTextLen": 446,
+      "bodyTextHash": "2d617e5d9ab099f265f7a0361ae3159dfa0c4cd6add05aea0234689266a3a2cc",
+      "bodyTextPrefix": "Conway Life Lab Generation 0 Population 0 Play Step 12 gen/s Fit",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
